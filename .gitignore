@@ -1,0 +1,10 @@
+# Archivos individuales
+
+.env
+passwords.txt
+
+*.sql
+*.txt
+
+# Carpetas
+node_modules/
